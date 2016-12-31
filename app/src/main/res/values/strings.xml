@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Abu Dhabi Tour Guide</string>
+
+    <string name="malls">Malls</string>
+    <string name="cultural_places">Cultural Places</string>
+    <string name="family_attractions">Family Attractions</string>
+    <string name="islands">Islands</string>
+    <string name="title_activity_island">IslandActivity</string>
+
+    <string name="footer_text">Developed by me for Udacity \n Ideas from visitabudhabi.ae (Abu Dhabi Tourism Authority)</string>
+
+    <!-- Cultural Places -->
+    <string name="zayed_mosque">Sheikh Zayed Grand Mosque</string>
+    <string name="zayed_mosque_address">Sheikh Rashid Bin Saeed Street</string>
+
+    <string name="heritage_village">Heritage Village</string>
+    <string name="heritage_village_address">Brake water, Near Marina Mall</string>
+
+    <string name="al_hosn">Al-Hosn</string>
+    <string name="al_hosn_address">Abu Dhabi</string>
+
+    <string name="women_craft">Women\'s Craft Centre</string>
+    <string name="women_craft_address">Al Bateen Beach</string>
+
+    <string name="qasr_muwaiji">Qasr Al Muwaiji</string>
+    <string name="qasr_muwaiji_address">Al Ain</string>
+
+    <string name="emirates_park">Emirates Park Zoo</string>
+    <string name="emirates_park_address">Al Bahya - Abu Dhabi</string>
+
+    <string name="ad_falcon">Abu Dhabi Falcon Hospital</string>
+    <string name="ad_falcon_address">Sweihan Road, Al Shamkha</string>
+
+    <string name="aj_fort">Al Jahili Fort</string>
+    <string name="aj_fort_address">Al Mutawaa</string>
+    <!-- end of Cultural Places-->
+
+    <!-- Family Attractions -->
+    <string name="ad_corniche">Abu Dhabi Corniche</string>
+    <string name="ad_corniche_address">Side road in Abu Dhabi</string>
+
+    <string name="yas_marina_circuit">Yas Marina Circuit</string>
+    <string name="yas_marina_circuit_address">Yas Island</string>
+
+    <string name="ferrari_world">Ferrari World</string>
+    <string name="ferrari_world_address">Yas Island</string>
+
+    <string name="yas_waterworld">Yas Waterworld</string>
+    <string name="yas_waterworld_address">Yas Island</string>
+
+    <string name="wadi_adventure">Wadi Adventure</string>
+    <string name="wadi_adventure_address">Jebel Hafeet</string>
+
+    <string name="marina_eye">Hili Fun City</string>
+    <string name="marina_eye_address">Ardh Al Jaw St</string>
+
+    <string name="bounce_abudhabi">Bounce Abu Dhabi</string>
+    <string name="bounce_abudhabi_address">Marina Mall</string>
+
+    <string name="khalifa_park">Khalifa Park</string>
+    <string name="khalifa_park_address">Sheikh Zayed bin Sultan Rd.</string>
+
+    <string name="umm_al_emarat_park">Umm Al Emarat Park</string>
+    <string name="umm_al_emarat_park_address">Mushrif Area, Karama</string>
+    <!-- end of Family Attactions -->
+
+    <!-- Islands -->
+    <string name="yas_island">Yas Island</string>
+    <string name="yas_island_address">Abu Dhabi</string>
+
+    <string name="sir_bani_yas_island">Sir Bani Yas Island</string>
+    <string name="sir_bani_yas_island_address">Abu Dhabi</string>
+
+    <string name="saadiyat_island">Saadiyat Island</string>
+    <string name="saadiyat_island_address">Abu Dhabi</string>
+
+    <string name="maryah_island">Al Maryah Island</string>
+    <string name="maryah_island_address">Abu Dhabi</string>
+
+    <string name="reem_island">Reem Island</string>
+    <string name="reem_island_address">Abu Dhabi</string>
+
+    <string name="nurai_island">Nurai Island</string>
+    <string name="nurai_island_address">Abu Dhabi</string>
+
+    <string name="delma_island">Delma Island</string>
+    <string name="delma_island_address">Abu Dhabi</string>
+    <!-- end of Islands -->
+
+    <!-- Malls -->
+    <string name="yas_mall">Yas Mall</string>
+    <string name="yas_mall_address">Abu Dhabi</string>
+
+    <string name="ad_mall">Abu Dhabi Mall</string>
+    <string name="ad_mall_address">Abu Dhabi</string>
+
+    <string name="marina_mall">Marina Mall</string>
+    <string name="marina_mall_address">Abu Dhabi</string>
+
+    <string name="khalidiyah_mall">Khalidiyah Mall</string>
+    <string name="khalidiyah_mall_address">Abu Dhabi</string>
+
+    <string name="wahda_mall">Al Wahda Mall</string>
+    <string name="wahda_mall_address">Abu Dhabi</string>
+
+    <string name="wtc_mall">World Trade Center Mall</string>
+    <string name="wtc_mall_address">Abu Dhabi</string>
+
+    <string name="raha_mall">Al Raha Mall</string>
+    <string name="raha_mall_address">Abu Dhabi</string>
+
+    <string name="deer_townsquare">Deerfields Townsquare</string>
+    <string name="deer_townsquare_address">Abu Dhabi</string>
+
+    <string name="mushrif_mall">Mushrif Mall</string>
+    <string name="mushrif_mall_address">Abu Dhabi</string>
+
+    <string name="dalma_mall">Dalma Mall</string>
+    <string name="dalma_mall_address">Musaffah, Abu Dhabi</string>
+
+    <string name="bawadi_mall">Bawadi Mall</string>
+    <string name="bawadi_mall_address">Abu Dhabi</string>
+    <!-- end of Malls -->
+
+</resources>

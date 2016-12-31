@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c30e2e</color>
+    <color name="colorPrimaryDark">#751a03</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background Colors for Different Activities -->
+    <color name="cultural_activity">#8c211b</color>
+    <color name="family_activity">#ec9e39</color>
+    <color name="malls_activity">#1e63be</color>
+    <color name="island_activity">#16bf4c</color>
+</resources>

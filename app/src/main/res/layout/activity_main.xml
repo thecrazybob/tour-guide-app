@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.abudhabitourguide.MainActivity">
+
+    <TextView
+        android:id="@+id/cultural_places"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        style="@style/MainNavigation"
+        android:background="@color/cultural_activity"
+        android:text="@string/cultural_places" />
+
+    <TextView
+        android:id="@+id/family_attractions"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        style="@style/MainNavigation"
+        android:background="@color/family_activity"
+        android:text="@string/family_attractions" />
+
+    <TextView
+        android:id="@+id/malls"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        style="@style/MainNavigation"
+        android:background="@color/malls_activity"
+        android:text="@string/malls" />
+
+    <TextView
+        android:id="@+id/islands"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        style="@style/MainNavigation"
+        android:background="@color/island_activity"
+        android:text="@string/islands" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/uae"
+        android:scaleType="centerCrop"
+        android:alpha="0.4"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="24sp"
+        android:textColor="@android:color/black"
+        android:text="@string/footer_text"/>
+
+    </RelativeLayout>
+
+</LinearLayout>
