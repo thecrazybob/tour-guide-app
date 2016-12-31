@@ -7,4 +7,6 @@ A basic tour guide app with cultural places, malls, islands and family attractio
 
 ### Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot-1.png)
+![App Screenshot](screenshot-2.png)
+![App Screenshot](screenshot-3.png)
