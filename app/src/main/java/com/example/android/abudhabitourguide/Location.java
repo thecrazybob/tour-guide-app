@@ -24,21 +24,6 @@ public class Location {
         mLocationImage = LocationImage;
     }
 
-    // Set Location Name
-    public void setLocationName(int LocationName) {
-        mLocationName = LocationName;
-    }
-
-    // Set Location Address
-    public void setLocationAddress(int LocationAddress) {
-        mLocationAddress = LocationAddress;
-    }
-
-    // Set Location Image
-    public void setLocationImage(int LocationImage) {
-        mLocationImage = LocationImage;
-    }
-
     // Get Location Name
     public int getLocationName() {
         return mLocationName;
